@@ -14,7 +14,7 @@ pip install numpy
 
 pip install matplotlib
 
-pip install sc
+pip install scipy
 
 pip install pandas_datareader
 
